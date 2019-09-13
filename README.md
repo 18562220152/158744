@@ -4,7 +4,7 @@
 
 	<head>
 		<meta charset="utf-8">
-		<title>我的世界Minecraft中国版官方网站——你想玩的，这里都有</title>
+		<title>我的世界Minecraft中国非官方网站——你想玩的，这里都有</title>
 	<meta name="from" content="git:MC/mc-zt-fab-20171220">
 	<meta name="author" content="网易，NetEase Inc.">
 	<meta name="copyright" content="网易，NetEase Inc.">
